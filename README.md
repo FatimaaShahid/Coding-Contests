@@ -68,6 +68,7 @@ Here are some of the certifications and recognitions I’ve earned through my pa
   <img src="Certificates/TECHFEST.jpg" width="200"/>
   <img src="Certificates/teknofest.jpg" width="200"/>
   <img src="Certificates/Calico_Spring'26.png" width="200"/>
+  <img src="Certificates/ZeroToShip-SentinelSync.jpeg" width="200"/>
 
 </p>
 
